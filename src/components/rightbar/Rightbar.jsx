@@ -9,7 +9,7 @@ export default function Rightbar() {
                     <span className="birthdayText"> 
                     <b>Pola Foster</b>  and <b>3 other friends</b> have their birthday today</span>
                 </div>
-                <img src="/assets/ad.png" alt="" className="rightbarAd" />
+                {/* <img src="/assets/ad.png" alt="" className="rightbarAd" />
                 <h4 className="rightbarTitle">Online Friends</h4>
                 <ul className="onlineFriendList">
                     <li className="rightbarFriend">
@@ -19,7 +19,7 @@ export default function Rightbar() {
                         </div>
 
                     </li>
-                </ul>
+                </ul> */}
             </div>
         </div>
     )
